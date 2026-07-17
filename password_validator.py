@@ -33,4 +33,4 @@ def include_lower(password):
     return False
 
 
-print(check_password("Na12345678"))
+print(check_password("N345678"))
